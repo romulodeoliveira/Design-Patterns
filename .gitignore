@@ -1,0 +1,41 @@
+# Arquivos e diretórios específicos para projetos .NET
+*.obj
+*.exe
+*.dll
+*.pdb
+*.userprefs
+*.vscode
+bin/
+obj/
+
+# Arquivos e diretórios gerados pelo Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Pacotes NuGet
+packages/
+
+# Arquivos de log
+*.log
+
+# Arquivos de compilação
+[Bb]uild/
+
+# Arquivos temporários
+[Tt]emp/
+[Oo]bj/
+
+# Arquivos gerados durante a execução do aplicativo
+_*
+
+# Outros arquivos e diretórios
+.DS_Store
+Thumbs.db
+
+
+designPatterns.txt
+designPatterns.md
