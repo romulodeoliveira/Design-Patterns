@@ -20,8 +20,8 @@
 ## Exemplos de código:
 
 <div align="center">
-    <img src="https://github.com/romulodeoliveira/Design-Patterns/blob/main/01-Singleton/img/img1.png">
-    <img src="https://github.com/romulodeoliveira/Design-Patterns/blob/main/01-Singleton/img/img2.png">
+    <img src="https://github.com/romulodeoliveira/Design-Patterns/blob/main/02-Responsibility/2.1-Singleton/img/img1.png">
+    <img src="https://github.com/romulodeoliveira/Design-Patterns/blob/main/02-Responsibility/2.1-Singleton/img/img2.png">
 </div>
 
 ## Benefícios e importância do Singleton:
