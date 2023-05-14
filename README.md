@@ -119,7 +119,7 @@ Os padrões estruturais são os que tratam da relação entre os objetos e como 
 
 1. O Object Adapter usa o princípio de composição do objeto e pode agrupar classes ou interfaces, ou ambos. Ele pode fazer isso, pois contém, como um membro privado e encapsulado, a classe ou a instância do objeto de interface que envolve. Essa abordagem pode ser implementada em várias linguagens de programação, incluindo C#.
 
-1. Bridge permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas—abstração e implementação—que podem ser desenvolvidas independentemente umas das outras.
+1. Bridge permite que você divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas — abstração e implementação — que podem ser desenvolvidas independentemente umas das outras.
 
 1. Composite permite que você componha objetos em estruturas de árvores e então trabalhe com essas estruturas como se elas fossem objetos individuais.
 
