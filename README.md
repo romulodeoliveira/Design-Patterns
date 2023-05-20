@@ -197,41 +197,41 @@ Usarei essa classificação nos meus estudos.
   <tr>
     <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/01-Interface/1.1-Adapter">1.1 Adapter</a></td>
     <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.1-Singleton">2.1 Singleton</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.1-Builder">3.1 Builder</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.1-Template-Method">4.1 Template Method</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/05-Extension/5.1-Decorator">5.1 Decorator</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.1-Builder">3.1 Builder 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.1-Template-Method">4.1 Template Method 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/05-Extension/5.1-Decorator">5.1 Decorator 🔧</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/01-Interface/1.2-Facade">1.2 Facade</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.2-Observer">2.2 Observer</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.2-Factory-Method">3.2 Factory Method</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.2-State">4.2 State</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/05-Extension/5.2-Iterator">5.2 Iterator</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/01-Interface/1.2-Facade">1.2 Facade 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.2-Observer">2.2 Observer 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.2-Factory-Method">3.2 Factory Method 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.2-State">4.2 State 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/05-Extension/5.2-Iterator">5.2 Iterator 🔧</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/01-Interface/1.3-Composite">1.3 Composite</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.3-Mediator">2.3 Mediator</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.3-Abstract-Factory">3.3 Abstract Factory</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.3-Strategy">4.3 Strategy</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/05-Extension/5.3-Visitor">5.3 Visitor</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/01-Interface/1.3-Composite">1.3 Composite 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.3-Mediator">2.3 Mediator 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.3-Abstract-Factory">3.3 Abstract Factory 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.3-Strategy">4.3 Strategy 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/05-Extension/5.3-Visitor">5.3 Visitor 🔧</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/01-Interface/1.4-Bridge">1.4 Bridge</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.4-Proxy">2.4 Proxy</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.4-Prototype">3.4 Prototype</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.4-Command">4.4 Command</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/01-Interface/1.4-Bridge">1.4 Bridge 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.4-Proxy">2.4 Proxy 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.4-Prototype">3.4 Prototype 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.4-Command">4.4 Command 🔧</a></td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td><a href=""></a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.5-Chain-of-Responsibility">2.5 Chain of Responsibility</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.5-Memento">3.5 Memento</a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.5-Interpreter">4.5 Interpreter</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.5-Chain-of-Responsibility">2.5 Chain of Responsibility 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/03-Construction/3.5-Memento">3.5 Memento 🔧</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/04-Operation/4.5-Interpreter">4.5 Interpreter 🔧</a></td>
     <td><a href=""></a></td>
   </tr>
   <tr>
     <td><a href=""></a></td>
-    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.6-Flyweight">2.6 Flyweight</a></td>
+    <td><a href="https://github.com/romulodeoliveira/Design-Patterns/tree/main/02-Responsibility/2.6-Flyweight">2.6 Flyweight 🔧</a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
     <td><a href=""></a></td>
